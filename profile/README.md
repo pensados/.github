@@ -2,85 +2,53 @@
 
 # 🧠 PensaDOS
 
-### *d·OS — de Orden Superior · Higher-Order OS*
+**Personal projects, open to the community.**
+*Proyectos personales, abiertos a la comunidad.*
 
-[![Repos](https://img.shields.io/badge/repos-públicos-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/pensados/repositories)
+[![GitHub org](https://img.shields.io/badge/github-pensados-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/pensados)
 [![Author](https://img.shields.io/badge/autor-carolusx74-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/carolusx74)
-[![Stack](https://img.shields.io/badge/stack-FastAPI%20·%20Kotlin%20·%20Docker-0a0a0a?style=flat-square&logo=python&logoColor=white)](https://github.com/pensados)
-[![Android](https://img.shields.io/badge/Android-Developer-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/carolusx74)
 
 </div>
 
 ---
 
-## 🧠 PensaDOS
+A hobby space where I share tools and experiments I build on my own time. Nothing too serious — just code that might be useful to someone else.
 
-> **ES** — El sistema operativo de las ideas. Segunda iteración del universo **Pensa**: donde la infraestructura, la lógica y la creatividad convergen bajo un mismo principio: *pensar, crear y ejecutar*.
->
-> **EN** — The operating system of ideas. Second iteration of the **Pensa** universe: where infrastructure, logic and creativity converge under one principle: *think, build and run*.
+*Un espacio hobbysta donde comparto herramientas y experimentos que construyo en mi tiempo libre. Nada muy serio — solo código que quizás le sirva a alguien más.*
 
 ---
 
-## 🌐 Ecosistema · Ecosystem
+## 🔧 Projects · Proyectos
 
-| Proyecto · Project | Estado · Status | Descripción · Description |
-|---|---|---|
-| [**infra**](https://github.com/pensados/infra) | ![active](https://img.shields.io/badge/-active-4ade80?style=flat-square) | Scripts, contenedores y automatización del entorno · Scripts, containers and environment automation |
-| [**core**](https://github.com/pensados/core) | ![active](https://img.shields.io/badge/-active-4ade80?style=flat-square) | Núcleo del sistema, APIs y servicios compartidos · System kernel, shared APIs and services |
-| [**alert**](https://github.com/pensados/alert) | ![active](https://img.shields.io/badge/-active-4ade80?style=flat-square) | Notificaciones inteligentes y monitoreo de eventos · Smart notifications and event monitoring |
-| [**short**](https://github.com/pensados/short) | ![active](https://img.shields.io/badge/-active-4ade80?style=flat-square) | Acortador de URLs con estadísticas avanzadas · URL shortener with advanced analytics |
-| [**webhooks**](https://github.com/pensados/webhooks) | ![active](https://img.shields.io/badge/-active-4ade80?style=flat-square) | Gateway multipropósito para recibir y distribuir eventos · Multipurpose event gateway |
-| [**retrohub**](https://github.com/pensados/retrohub) | ![wip](https://img.shields.io/badge/-wip-facc15?style=flat-square) | Portal interactivo de juegos retro y simulaciones técnicas · Interactive retro games portal |
-| [**pensaexec**](https://github.com/pensados/pensaexec) | ![active](https://img.shields.io/badge/-active-4ade80?style=flat-square) | API local para ejecución automatizada y asistencia contextual · Local API for automated execution and contextual assistance |
+### [SentinelX](https://sentinelx.pensa.ar/) — `pensados/sentinelx-core` · `pensados/sentinelx-core-mcp`
 
----
+An agent/API that connects Ubuntu servers to MCP clients like Claude.ai or ChatGPT. Lets you run commands, manage services, and interact with your server through natural language.
 
-## 🛠️ Stack tecnológico · Tech Stack
+*Un agente/API que conecta servidores Ubuntu con clientes MCP como Claude.ai o ChatGPT. Permite ejecutar comandos, gestionar servicios e interactuar con tu servidor en lenguaje natural.*
 
-<div align="center">
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-</div>
+[![Repo core](https://img.shields.io/badge/sentinelx--core-0a0a0a?style=flat-square&logo=github)](https://github.com/pensados/sentinelx-core)
+[![Repo MCP](https://img.shields.io/badge/sentinelx--core--mcp-0a0a0a?style=flat-square&logo=github)](https://github.com/pensados/sentinelx-core-mcp)
+[![Website](https://img.shields.io/badge/web-sentinelx.pensa.ar-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://sentinelx.pensa.ar/)
 
 ---
 
-## 💬 Filosofía · Philosophy
+## 👤 Also from the same author · También del mismo autor
 
-> **ES** — "Pensar no es solo imaginar: es construir estructuras que piensen por sí mismas."
->
-> **EN** — "Thinking is not just imagining: it's building structures that think for themselves."
+Other personal repos you might find useful:
 
-Cada repositorio es una célula dentro de un sistema de **Orden Superior**, donde lo técnico y lo humano convergen en equilibrio.
+*Otros repos personales que quizás te resulten útiles:*
 
-*Each repository is a cell within a **Higher-Order** system, where the technical and the human converge in balance.*
-
----
-
-## 👤 Autor · Author
-
-<div align="center">
-
-**Carlos Javier Torres Pensa** · [@carolusx74](https://github.com/carolusx74)
-
-*Arquitecto de sistemas · System Architect*
-*Desarrollador Android · Android Developer*
-*Creador del universo **Pensa** — infraestructura con alma · infrastructure with soul.*
-
-</div>
+| Proyecto | Descripción |
+|---|---|
+| [**BedLink**](https://github.com/CarolusX74/bedlink) | Join any Minecraft Bedrock server from Xbox, Switch or PS4/PS5 |
+| [**KeepAwake**](https://github.com/CarolusX74/keep-awake) | Java utility that prevents your PC from sleeping via mouse simulation |
+| [**AdbVortex**](https://github.com/CarolusX74/AdbVortex) | Android Studio / IntelliJ plugin to share internet connection via ADB |
+| [**GitHub2Teams**](https://github.com/CarolusX74/github2teams) | API to forward GitHub Pull Request notifications to Microsoft Teams |
 
 ---
 
 <div align="center">
 
-🧩 **PensaDOS** — infraestructura, código y pensamiento · *infrastructure, code and thought.*
+Made by [@carolusx74](https://github.com/carolusx74) · Android Developer · Systems Architect
 
 </div>
