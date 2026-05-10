@@ -12,23 +12,36 @@
 
 ---
 
-A hobby space where I share tools and experiments I build on my own time. Nothing too serious — just code that might be useful to someone else.
+A hobby space where I build tools that solve my own problems — and sometimes turn into something useful for others.
 
-*Un espacio hobbysta donde comparto herramientas y experimentos que construyo en mi tiempo libre. Nada muy serio — solo código que quizás le sirva a alguien más.*
+*Un espacio hobbysta donde construyo herramientas que resuelven mis propios problemas — y a veces terminan siendo útiles para otros.*
 
 ---
 
-## 🔧 Projects · Proyectos
+## 🛡️ SentinelX — [sentinelx.pensa.ar](https://sentinelx.pensa.ar/)
 
-### [SentinelX](https://sentinelx.pensa.ar/) — `pensados/sentinelx-core` · `pensados/sentinelx-core-mcp`
+**An MCP server that lets Claude or ChatGPT manage your Linux fleet.** Multi-host, hub-managed, with command allowlist and auditable scoped operations.
 
-An agent/API that connects Ubuntu servers to MCP clients like Claude.ai or ChatGPT. Lets you run commands, manage services, and interact with your server through natural language.
+*Un servidor MCP que le permite a Claude o ChatGPT gestionar tu flota de servidores Linux. Multi-host, gestionado por un hub central, con allowlist de comandos y operaciones auditables.*
 
-*Un agente/API que conecta servidores Ubuntu con clientes MCP como Claude.ai o ChatGPT. Permite ejecutar comandos, gestionar servicios e interactuar con tu servidor en lenguaje natural.*
-
-[![Repo core](https://img.shields.io/badge/sentinelx--core-0a0a0a?style=flat-square&logo=github)](https://github.com/pensados/sentinelx-core)
-[![Repo MCP](https://img.shields.io/badge/sentinelx--core--mcp-0a0a0a?style=flat-square&logo=github)](https://github.com/pensados/sentinelx-core-mcp)
+[![Agent](https://img.shields.io/badge/sentinelx--cloud--core-Apache%202.0-0a0a0a?style=flat-square&logo=github)](https://github.com/pensados/sentinelx-cloud-core)
+[![Installer](https://img.shields.io/badge/sentinelx--cloud--installer-Apache%202.0-0a0a0a?style=flat-square&logo=github)](https://github.com/pensados/sentinelx-cloud-installer)
+[![Protocol](https://img.shields.io/badge/sentinelx--cloud--protocol-Apache%202.0-0a0a0a?style=flat-square&logo=github)](https://github.com/pensados/sentinelx-cloud-protocol)
 [![Website](https://img.shields.io/badge/web-sentinelx.pensa.ar-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://sentinelx.pensa.ar/)
+
+> Looking for the original single-host SentinelX? It lives on as archived repos:
+> [sentinelx-core](https://github.com/pensados/sentinelx-core), [sentinelx-core-mcp](https://github.com/pensados/sentinelx-core-mcp), [sentinelx-docker](https://github.com/pensados/sentinelx-docker).
+
+---
+
+## 📦 Drop — [drop.pensa.ar](https://drop.pensa.ar/)
+
+**Instant file drop service.** Upload a file, get a temporary public URL. No accounts, automatic expiry, optional one-shot mode.
+
+*Servicio instantáneo de file drop. Subís un archivo, obtenés una URL pública temporal. Sin cuentas, expiración automática, modo one-shot opcional.*
+
+[![Repo](https://img.shields.io/badge/drop--pensa-MIT-0a0a0a?style=flat-square&logo=github)](https://github.com/pensados/drop-pensa)
+[![Website](https://img.shields.io/badge/web-drop.pensa.ar-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://drop.pensa.ar/)
 
 ---
 
@@ -38,7 +51,7 @@ Other personal repos you might find useful:
 
 *Otros repos personales que quizás te resulten útiles:*
 
-| Proyecto | Descripción |
+| Project | Description |
 |---|---|
 | [**BedLink**](https://github.com/CarolusX74/bedlink) | Join any Minecraft Bedrock server from Xbox, Switch or PS4/PS5 |
 | [**KeepAwake**](https://github.com/CarolusX74/keep-awake) | Java utility that prevents your PC from sleeping via mouse simulation |
