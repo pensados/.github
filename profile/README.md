@@ -20,14 +20,15 @@ A hobby space where I build tools that solve my own problems — and sometimes t
 
 ## 🛡️ SentinelX — [sentinelx.pensa.ar](https://sentinelx.pensa.ar/)
 
-**An MCP server that lets Claude or ChatGPT manage your Linux fleet.** Multi-host, hub-managed, with command allowlist and auditable scoped operations.
+**An MCP server that lets Claude or ChatGPT manage your Linux, macOS and Windows fleet.** Multi-host, hub-managed, with command allowlist and auditable scoped operations.
 
-*Un servidor MCP que le permite a Claude o ChatGPT gestionar tu flota de servidores Linux. Multi-host, gestionado por un hub central, con allowlist de comandos y operaciones auditables.*
+*Un servidor MCP que le permite a Claude o ChatGPT gestionar tu flota de servidores Linux, macOS y Windows. Multi-host, gestionado por un hub central, con allowlist de comandos y operaciones auditables.*
 
 [![Agent](https://img.shields.io/badge/sentinelx--cloud--core-Apache%202.0-0a0a0a?style=flat-square&logo=github)](https://github.com/pensados/sentinelx-cloud-core)
 [![Installer](https://img.shields.io/badge/sentinelx--cloud--installer-Apache%202.0-0a0a0a?style=flat-square&logo=github)](https://github.com/pensados/sentinelx-cloud-installer)
 [![Protocol](https://img.shields.io/badge/sentinelx--cloud--protocol-Apache%202.0-0a0a0a?style=flat-square&logo=github)](https://github.com/pensados/sentinelx-cloud-protocol)
 [![Website](https://img.shields.io/badge/web-sentinelx.pensa.ar-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://sentinelx.pensa.ar/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-connector-10a37f?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/plugins/plugin_asdk_app_69f63e01766881919640f03b5e7912a5)
 
 > Looking for the original single-host SentinelX? It lives on as archived repos:
 > [sentinelx-core](https://github.com/pensados/sentinelx-core), [sentinelx-core-mcp](https://github.com/pensados/sentinelx-core-mcp), [sentinelx-docker](https://github.com/pensados/sentinelx-docker).
