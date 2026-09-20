@@ -1,20 +1,25 @@
 <div align="center">
 
-# 🧠 PensaDOS
+# 🧠 PensaDOS / Pensa Software
 
-**Personal projects, open to the community.**
-*Proyectos personales, abiertos a la comunidad.*
+**Open source from Pensa Software.**
+*Open source de Pensa Software.*
 
 [![GitHub org](https://img.shields.io/badge/github-pensados-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/pensados)
+[![Pensa Software](https://img.shields.io/badge/Pensa%20Software-pensa.ar-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://pensa.ar/)
 [![Author](https://img.shields.io/badge/autor-carolusx74-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/carolusx74)
 
 </div>
 
 ---
 
-A hobby space where I build tools that solve my own problems — and sometimes turn into something useful for others.
+**PensaDOS** is the GitHub home of **Pensa Software** ([pensa.ar](https://pensa.ar/)). Two names, one thing: *Pensa Software* is the products and services side, *PensaDOS* is where the code that can be open, is open.
 
-*Un espacio hobbysta donde construyo herramientas que resuelven mis propios problemas — y a veces terminan siendo útiles para otros.*
+*__PensaDOS__ es la casa en GitHub de __Pensa Software__ ([pensa.ar](https://pensa.ar/)). Dos nombres, una misma cosa: Pensa Software es el lado de productos y servicios, PensaDOS es donde el código que puede ser abierto, lo es.*
+
+Tools built to solve real problems — a few of them grew into services other people use.
+
+*Herramientas construidas para resolver problemas reales — algunas terminaron siendo servicios que otros usan.*
 
 ---
 
@@ -29,6 +34,10 @@ A hobby space where I build tools that solve my own problems — and sometimes t
 [![Protocol](https://img.shields.io/badge/sentinelx--cloud--protocol-Apache%202.0-0a0a0a?style=flat-square&logo=github)](https://github.com/pensados/sentinelx-cloud-protocol)
 [![Website](https://img.shields.io/badge/web-sentinelx.pensa.ar-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://sentinelx.pensa.ar/)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-connector-10a37f?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/plugins/plugin_asdk_app_69f63e01766881919640f03b5e7912a5)
+
+> Operated by Pensa Software. The hub is a hosted service; the agent, installer and protocol are Apache-2.0 and live here.
+>
+> *Operado por Pensa Software. El hub es un servicio gestionado; el agente, el instalador y el protocolo son Apache-2.0 y viven acá.*
 
 > Looking for the original single-host SentinelX? It lives on as archived repos:
 > [sentinelx-core](https://github.com/pensados/sentinelx-core), [sentinelx-core-mcp](https://github.com/pensados/sentinelx-core-mcp), [sentinelx-docker](https://github.com/pensados/sentinelx-docker).
@@ -63,6 +72,8 @@ Other personal repos you might find useful:
 
 <div align="center">
 
-Made by [@carolusx74](https://github.com/carolusx74) · Android Developer · Systems Architect
+**Pensa Software** · [pensa.ar](https://pensa.ar/)
+
+Made by [@carolusx74](https://github.com/carolusx74) · Android Developer · Systems Architect · [pensa.com.ar](https://pensa.com.ar/)
 
 </div>
